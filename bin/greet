@@ -8,3 +8,5 @@ def hal
 gets.strip
 greeting (name)
 end
+
+print hal
